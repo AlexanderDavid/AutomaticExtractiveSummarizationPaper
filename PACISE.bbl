@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{rosenstiel2014personal}
+T.~Rosenstiel, J.~Sonderman, K.~Loker, M.~Tran, T.~Tompson, J.~Benz, D.~Junis,
+  The personal news cycle, \emph{Chicago, The Media Insight Project}.
+
+\bibitem{luhn1958automatic}
+H.~P. Luhn, The automatic creation of literature abstracts, \emph{IBM Journal
+  of research and development}, \emph{2}(2):(1958), 159--165.
+
+\bibitem{bajajshakespeare}
+S.~Bajaj, Shakespeare in one hundred words, \emph{CS224N/Ling284 Final Projects
+  2013-2014}.
+
+\bibitem{das2007survey}
+D.~Das, A.~F. Martins, A survey on automatic text summarization,
+  \emph{Literature Survey for the Language and Statistics II course at CMU},
+  \emph{4}:(2007), 192--195.
+
+\bibitem{Beel2016-11Resea-32348}
+J.~Beel, B.~Gipp, S.~Langer, C.~Breitinger, Research-paper recommender systems
+  : a literature survey, \emph{International Journal on Digital Libraries},
+  \emph{17}(4):(2016), 305--338, ISSN 1432-5012,
+  \doi{10.1007/s00799-015-0156-0}.
+
+\bibitem{page1999pagerank}
+L.~Page, S.~Brin, R.~Motwani, T.~Winograd, The pagerank citation ranking:
+  Bringing order to the web., Technical report, Stanford InfoLab, 1999.
+
+\bibitem{mihalcea2004textrank}
+R.~Mihalcea, P.~Tarau, Textrank: Bringing order into text, in \emph{Proceedings
+  of the 2004 conference on empirical methods in natural language processing}
+  (2004).
+
+\bibitem{networkX}
+A.~Hagberg, P.~Swart, D.~S~Chult, Exploring network structure, dynamics, and
+  function using networkx, Technical report, Los Alamos National Lab.(LANL),
+  Los Alamos, NM (United States), 2008.
+
+\bibitem{PRAW}
+B.~Boe, jarhill0, et~al., {PRAW}: The python reddit api wrapper, 2012--,
+  [Online; accessed Feb 2nd 2019].
+
+\bibitem{hermann2015teaching}
+K.~M. Hermann, T.~Kocisky, E.~Grefenstette, L.~Espeholt, W.~Kay, M.~Suleyman,
+  P.~Blunsom, Teaching machines to read and comprehend, in \emph{Advances in
+  Neural Information Processing Systems}, pages 1693--1701 (2015).
+
+\bibitem{numpy}
+T.~Oliphant, {NumPy}: A guide to {NumPy}, USA: Trelgol Publishing, 2006--,
+  [Online; accessed Feb 13th 2019].
+
+\bibitem{DayAutomaticAnon}
+A.~Day, Atuomatic extractive summarization,
+  \url{https://doi.org/10.5281/zenodo.2563845}, 2019.
+
+\bibitem{bird2009natural}
+S.~Bird, E.~Klein, E.~Loper, \emph{Natural language processing with Python:
+  analyzing text with the natural language toolkit} (" O'Reilly Media, Inc.",
+  2009).
+
+\bibitem{yao2014spoken}
+K.~Yao, B.~Peng, Y.~Zhang, D.~Yu, G.~Zweig, Y.~Shi, Spoken language
+  understanding using long short-term memory neural networks, in \emph{Spoken
+  Language Technology Workshop (SLT), 2014 IEEE}, pages 189--194 (IEEE, 2014).
+
+\end{thebibliography}
